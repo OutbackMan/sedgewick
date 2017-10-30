@@ -1,0 +1,1 @@
+Use table-driven methods for long if-else logic, i.e. array index is if condition, if body is array value
